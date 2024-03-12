@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245876224329",
+    "project_id": "rpmdemo-9e92a",
+    "storage_bucket": "rpmdemo-9e92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245876224329:android:5b727c87dcc95454a0ea98",
+        "android_client_info": {
+          "package_name": "com.example.rpm_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqyrwiQgNrQv1O5n_peVcodpbtyYFATGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
